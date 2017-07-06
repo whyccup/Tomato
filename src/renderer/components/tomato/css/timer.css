@@ -1,0 +1,19 @@
+  .content{
+    width: 100%;
+    height: 120px;
+    line-height: 120px;
+    font-size: 80px;
+    text-align: center;
+  }
+  .bottomBtn{
+    text-align: center;
+  }
+  .bottomBtn button{
+    padding: 0;
+  }
+  .bottomBtn span{
+    width: 100%;
+    height: 100%;
+    padding: 8px 13px;
+    color: #fff;
+  }
