@@ -1,5 +1,5 @@
 # tomato
-
+> a simple tomato timer
 > An electron-vue project
 
 #### Build Setup
